@@ -1,1 +1,1 @@
-# lab6_git_remote
+# lab6_git_remoteИзменение от второго участника
